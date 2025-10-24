@@ -20,7 +20,7 @@ CPU AMD Ryzen 5 5675u 6 Cores ✅ (Patched with AMD patches.plist)
 
 AMD Cpu management ✅ (Download AMD Power Gadget to control CPU)
 
-iGPU AMD Radeon Graphics 2GB ✅ Setting BIOS->IO->dispay->frame buffer)
+iGPU AMD Radeon Graphics 2GB ✅ (Setting BIOS->IO->dispay->frame buffer)
 
 NVMe Intel SSD 256GB ✅
 
