@@ -1,10 +1,13 @@
 # Hackintosh-EFI-Thinkpad-L15-Gen-3
 
+<img width="348" height="597" alt="Screenshot 2025-10-24 at 11 01 32" src="https://github.com/user-attachments/assets/5317e1db-8ff1-428a-b7a2-dcae8cd2107f" />
+
 Hardware Lenovo Thinkpad L15 Gen 3 - AMD Ryzen 5 5675u  with Vega 7
+
 
 Sonoma  ✅ (Tested)
 
-Sequoaia ✅ (Tested)
+Sequoia ✅ (Tested)
 
 Tahoe ❌ (Not Sure, On Progress)
 
